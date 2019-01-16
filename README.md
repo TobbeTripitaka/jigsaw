@@ -1,5 +1,6 @@
 # jigsaw
 This is my favourite vast of time
 
+Solving a special case of jigsaw puzzle using conventional sigal processing and Bayesian inference. Soon up...
 
-![Antarctica_geo](https://github.com/TobbeTripitaka/grid/blob/master/fig/Antarctica_geo.png)
+![Teaser](https://github.com/TobbeTripitaka/jigsaw/blob/master/fig/jigsaw.png?raw=true)
